@@ -3,3 +3,4 @@ boot_v1.6.bin
 esp_init_data_default.bin
 espruino_esp8266_user*
 Mac_OSX_VCP_Driver
+.DS_Store
