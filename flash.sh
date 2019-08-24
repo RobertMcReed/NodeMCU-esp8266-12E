@@ -1,1 +1,0 @@
-esptool.py --baud 115200 --port /dev/tty.SLAB_USBtoUART write_flash -fs 4MB -ff 80m --flash_mode dio 0x0000 boot_v1.6.bin 0x1000 espruino_esp8266_user1.bin 0x3FC000 esp_init_data_default.bin 0x3FE000 blank.bin
